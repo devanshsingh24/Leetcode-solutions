@@ -1,7 +1,7 @@
 import requests
 import json
 
-username = "your_leetcode_username"
+username = "tWA3x4C4GN"
 url = f"https://leetcode.com/graphql"
 
 query = {
